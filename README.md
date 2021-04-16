@@ -1,5 +1,5 @@
 # Cytron-Card-Raya-1442H
-Celebrate Raya the new way!
+Celebrate Raya with the new norm the new way!
 
 Using programmable Card Raya for Makers from Cytron Technologies
 
